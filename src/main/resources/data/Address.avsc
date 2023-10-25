@@ -1,0 +1,27 @@
+{
+  "name": "AddressRegistered",
+  "type": "record",
+  "namespace": "org.example",
+  "fields": [
+    {
+      "name": "AddressId",
+      "type": "string"
+    },
+    {
+      "name": "Street",
+      "type": "string"
+    },
+    {
+      "name": "number",
+      "type": "int"
+    },
+    {
+      "name": "city",
+      "type": "string"
+    },
+    {
+      "name": "country",
+      "type": "string"
+    }
+  ]
+}

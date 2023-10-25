@@ -1,0 +1,15 @@
+{
+  "name": "UserRegistered",
+  "type": "record",
+  "namespace": "AddressesExample.org.example",
+  "fields": [
+    {
+      "name": "Userid",
+      "type": "string"
+    },
+    {
+      "name": "AddressId",
+      "type": "string"
+    }
+  ]
+}
